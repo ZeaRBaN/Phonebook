@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1576447487 source:c:\users\zearban\desktop\assigment\preject gamed\main.c
+	"globals.h"
+
+1576444553 source:c:\users\zearban\desktop\assigment\preject gamed\global.h
+
+1576447107 c:\users\zearban\desktop\assigment\preject gamed\globals.h
+	<stdio.h>
+	<stdlib.h>
+
+1576622524 source:c:\users\alyab\onedrive\desktop\preject gamed\main.c
+	"globals.h"
+
+1576622610 c:\users\alyab\onedrive\desktop\preject gamed\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576785186 source:c:\users\owner 2\desktop\preject gamed\main.c
+	"globals.h"
+
+1576784850 c:\users\owner 2\desktop\preject gamed\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577134513 source:c:\users\alyab\onedrive\desktop\project v2\main.c
+	"globals.h"
+
+1577055007 c:\users\alyab\onedrive\desktop\project v2\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591812158 source:d:\final\phonebook\main.c
+	"globals.h"
+
+1577055007 d:\final\phonebook\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
